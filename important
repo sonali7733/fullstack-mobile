@@ -1,0 +1,7 @@
+git init
+git remote add origin GIT_URL
+https://github.com/sonali7733/fullstack-mobile.git
+git add .
+git commit -m "initial setup"
+
+git push origin master
